@@ -1,0 +1,12 @@
+https://msd.govt.nz/.well-known/security.txt
+https://www.cert.govt.nz/.well-known/security.txt
+https://www.theta.co.nz/.well-known/security.txt
+https://iserve.nz/.well-known/security.txt
+https://www.geekzone.co.nz/.well-known/security.txt
+https://www.gotogate.co.nz/.well-known/security.txt
+https://itbrief.co.nz/.well-known/security.txt
+https://www.bikeexchange.co.nz/.well-known/security.txt
+https://brianmccarthy.nz/.well-known/security.txt
+https://hotplate.co.nz/.well-known/security.txt
+https://futurefive.co.nz/.well-known/security.txt
+http://aquisense-technologies.co.nz/.well-known/security.txt
