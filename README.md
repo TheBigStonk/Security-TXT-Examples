@@ -7,4 +7,4 @@ A list of New Zealand Companies that have a security.txt page. Additionally a re
   > New zealand security txt
 
 # Observational summary
-There are 20 Security TXT records across New Zealand's .nz domain name space. 
+There are 21 Security TXT records across New Zealand's .nz domain name space. 
