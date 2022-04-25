@@ -10,3 +10,12 @@ https://brianmccarthy.nz/.well-known/security.txt
 https://hotplate.co.nz/.well-known/security.txt
 https://futurefive.co.nz/.well-known/security.txt
 http://aquisense-technologies.co.nz/.well-known/security.txt
+https://vocus.co.nz/.well-known/security.txt
+https://www.vocusgroup.co.nz/.well-known/security.txt 
+https://feeding.cloud.geek.nz/.well-known/security.txt
+https://www.bmw-motorrad.co.nz/.well-known/security.txt
+https://sirranet.co.nz/.well-known/security.txt
+http://trimnshape.co.nz/.well-known/security.txt
+https://cfotech.co.nz/.well-known/security.txt
+http://mediamonks.nz/.well-known/security.txt
+https://www.monkeytronics.co.nz/well-known/securitytxt 
